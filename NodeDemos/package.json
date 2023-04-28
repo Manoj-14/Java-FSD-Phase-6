@@ -1,0 +1,22 @@
+{
+  "name": "nodedemos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manoj-14/Java-FSD-Phase-6.git"
+  },
+  "author": "\"Manoj M\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manoj-14/Java-FSD-Phase-6/issues"
+  },
+  "homepage": "https://github.com/Manoj-14/Java-FSD-Phase-6#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
