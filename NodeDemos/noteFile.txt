@@ -1,0 +1,2 @@
+This file is created by nodejs
+content appending from nodejs
