@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Manoj-14/Java-FSD-Phase-6#readme",
   "dependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "validator": "^13.7.0",
+    "chalk": "^5.0.1"
   }
 }
